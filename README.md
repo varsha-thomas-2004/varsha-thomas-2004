@@ -58,7 +58,7 @@ Currently focusing on:
 
 ---
 
-## Connect With Me
+## Let's Connect!
 
 - GitHub: https://github.com/varsha-thomas-2004
 - LinkedIn: https://www.linkedin.com/in/varshathomas2004/
