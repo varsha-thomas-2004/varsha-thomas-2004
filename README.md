@@ -2,13 +2,13 @@
 
 > Backend Developer | Open Source Contributor | Cybersecurity Enthusiast | Keyboardist 🎹   
 
-Currently learning: Data Structures & Algorithms, System Design, Microservices, and Cybersecurity
+Currently learning: System Design, Microservices, and Cybersecurity
 
 ---
 
 ## About Me
 
-A Computer Science and Engineering student who is curious about Computer Science, Cybersecurity and Music.
+A Product Development Engineer at Envestnet. Curious about Computer Science, Cybersecurity and Music.
 
 ---
 
@@ -20,9 +20,9 @@ A Computer Science and Engineering student who is curious about Computer Science
 
 Actively learning through contributing to open-source projects, and my current areas of interest include:
 
-- Python-based projects
+- Python and Java-based projects
 - Backend systems
-- Flask applications
+- Spring Boot and Flask applications
 - Cybersecurity tools
 - Microservices
 
@@ -32,21 +32,11 @@ Actively learning through contributing to open-source projects, and my current a
 
 Currently focusing on:
 
-- Data Structures & Algorithms
 - Object-Oriented Programming
-- Python Backend Development
+- Java and Python Backend Development
 - Open Source Development
 - Cybersecurity Fundamentals
 - Web Security
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varsha-thomas-2004&show_icons=true&hide_border=true&theme=transparent" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-thomas-2004&layout=compact&hide_border=true&theme=transparent" height="170">
-</p>
 
 ---
 
