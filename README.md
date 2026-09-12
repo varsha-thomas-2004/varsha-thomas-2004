@@ -14,7 +14,7 @@ A Computer Science and Engineering student who is curious about Computer Science
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,python,java,flask,mongodb,mysql,git,github,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,java,python,flask,mongodb,mysql,git,github,gitlab,linux,postman)](https://skillicons.dev)
 
 ## Open Source
 
