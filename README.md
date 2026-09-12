@@ -43,9 +43,10 @@ Currently focusing on:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varsha-thomas-2004&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-thomas-2004&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varsha-thomas-2004&show_icons=true&hide_border=true&theme=transparent" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsha-thomas-2004&layout=compact&hide_border=true&theme=transparent" height="170">
+</p>
 
 ---
 
